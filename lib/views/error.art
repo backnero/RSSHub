@@ -40,11 +40,6 @@
         <pre class="message">Route requested: {{@ requestPath }}</pre>
         <pre class="message">Error message: {{@ message }}</pre>
 
-        <div style="margin: 50px 0">
-            <p>在线文档与支持，请访问<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p>
-            <p>For online documentation and support please refer to
-                <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p>
-        </div>
     </div>
 </body>
 
